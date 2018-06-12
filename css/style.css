@@ -42,12 +42,12 @@ body {
       content: ""; }
 
 a {
-  color: #0bbbe6;
+  color: #292929;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
   a:hover, a:active, a:focus {
-    color: #0bbbe6;
+    color: #292929;
     outline: none;
     text-decoration: none; }
 
@@ -62,15 +62,15 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #0bbbe6; }
+  background: #292929; }
 
 ::-moz-selection {
   color: #fff;
-  background: #0bbbe6; }
+  background: #292929; }
 
 ::selection {
   color: #fff;
-  background: #0bbbe6; }
+  background: #292929; }
 
 #fh5co-aside {
   width: 38.2%;
@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: fixed;
   height: 100%;
   z-index: 555;
-  background-color: #0bbbe6;
+  background-color: #292929;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center; }
@@ -190,7 +190,7 @@ h1, h2, h3, h4, h5, h6, figure {
       font-size: 14px;
       color: #fff;
       border: none !important;
-      background: #0bbbe6;
+      background: #292929;
       color: #fff;
       text-transform: uppercase;
       border-top-right-radius: 100px;
@@ -257,6 +257,6 @@ h1, h2, h3, h4, h5, h6, figure {
       color: #bfbfbf; }
       #fh5co-social li a:hover, #fh5co-social li a:active, #fh5co-social li a:focus {
         outline: none;
-        color: #0bbbe6; }
+        color: #292929; }
 
 /*# sourceMappingURL=style.css.map */
